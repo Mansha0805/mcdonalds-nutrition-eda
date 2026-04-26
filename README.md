@@ -98,7 +98,7 @@ mcdonalds-nutrition-eda/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/mcdonalds-nutrition-eda.git
+git clone https://github.com/Mansha0805/mcdonalds-nutrition-eda.git
 cd mcdonalds-nutrition-eda
 ```
 
